@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=tXGJMUY_pPc
+
+https://www.codeproject.com/Articles/1041115/Webscraping-with-Csharp
+
+https://blogs.msdn.microsoft.com/cdndevs/2015/12/17/web-scraping-in-c/
+
+https://www.c-sharpcorner.com/article/web-scraping-in-c-sharp/
+
+https://ironsoftware.com/csharp/webscraper/#c-sharp-web-scraper
